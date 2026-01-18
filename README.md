@@ -1,2 +1,2 @@
 # BMI-Rechner
-Übungsaugabe "BMI-Rechner"
+Übungsaufgabe "BMI-Rechner"
